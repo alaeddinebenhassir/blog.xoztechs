@@ -52,7 +52,6 @@ tag = "tags"
 series = "series"
 
 
-
 [[menu.icon]]
     url = "https://github.com/username/"
     name = "facebook"

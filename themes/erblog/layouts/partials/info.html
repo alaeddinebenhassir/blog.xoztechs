@@ -1,0 +1,26 @@
+<h3 style="margin-top:10px; margin-bottom:10px"> 
+    <span>{{.Date.Format "2006-01-02"}}</span>
+
+    <!--
+    <i class="layui-icon layui-icon-read" style="font-size: 24px; vertical-align: -2px;"></i>
+    <span style="vertical-align: px;">{{ .WordCount }} Words</span>
+    -->
+    {{if isset .Params "categories"}} 
+    {{end}}
+
+    {{ range $tag := .Params.categories }}
+        <a href="{{ "categories/" | relLangURL }}{{ $tag | urlize | lower }}/">
+            <span class="layui-badge {{with $.Site.Params.badge}}layui-bg-{{.}}{{end}}" style="vertical-align: 2px;">{{ $tag }}</span>
+        </a>
+    {{ end }}
+
+    {{ if isset .Params "tags" }}
+    {{end}}
+
+    {{ range $tag := .Params.tags }}
+        <a href="{{ "tags/" | relLangURL }}{{ $tag | urlize | lower }}/">
+            <span class="layui-badge {{with $.Site.Params.badge}}layui-bg-{{.}}{{end}}" style="vertical-align: 2px;">{{ $tag }}</span>
+        </a>
+    {{ end }}
+    
+</h3>
