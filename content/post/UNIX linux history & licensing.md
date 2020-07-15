@@ -54,9 +54,9 @@ In 1983, when AT&T started selling Unix commercially , about half of the source 
 Learning the history may give s a good understanding to the phylosofy behind the modern linux system , history enable as to trace the futur paths.
 I think every one wandring to jump into the world of opensorce should undestand the folowing :
 
-* the phylosophy of unix 
-* the roots of linux 
-* the free software philosophy 
-* licencing 
+* Philosophy of unix ,
+* Roots of linux ,
+* The free software philosophy ,
+* Licencing.
 
-and this what what i tried to cover in this artical.
+This what what i tried to cover in this artical, if you like it spread knowldge.
