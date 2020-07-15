@@ -3,7 +3,7 @@ title: "UNIX / linux history & licensing "
 date: 2020-07-10T23:13:53+01:00
 draft: true
 author: "alaeddine benhassir"
-description : "The philosophy of moderns linux systems has its roots back to the seventins , where the C programing language was created and the UNIX Operating system was born inside the AT&T BELL LABS"
+description : "The philosophy of moderns Linux systems has its roots back to the seventeens , where the C programing language was created and the UNIX Operating system was born inside the AT&T BELL LABS"
 tags : [
     "Linux",
 ]
