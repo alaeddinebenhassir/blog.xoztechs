@@ -1,23 +1,20 @@
 ---
-title: "UNIX linux history & licensing "
+title: "UNIX / linux history & licensing "
 date: 2020-07-10T23:13:53+01:00
 draft: true
 author: "alaeddine benhassir"
-description : "history of linux and unix"
+description : "The philosophy of moderns linux systems has its roots back to the seventins , where the C programing language was created and the UNIX Operating system was born inside the AT&T BELL LABS"
 tags : [
     "Linux",
 ]
 ---
-<img src="/static/30394.svg" alt="sdsdf "/>
 
 ![Example image](/30394.svg)
 ## History of UNIX and Linux : 
 
-
-
 ### 1964-1974 Unix is borne : 
 
- History is boring but  certain events shouldn't be denied as in the history of nations , well in this artical i am going to focuss only on the more remarcable events,
+History is boring but  certain events shouldn't be denied as in the history of nations , well in this artical i am going to focuss only on the more remarcable events,
 in other term  i am going to cover the big histroy of Unix . the folowing lines are my notes from [ UNIX and Linux System Administration Handbook ](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0134277554)
 
 Unix devlopement passed by sevral steps inside the AT&T Bell Labs back in the Seventies by Dennis Ritchie and Ken Thompson the most cited names they were ,inspired by an ambitious time-sharing system called Multics devloped by MIT , General Electronics and Bell Labs in 1964.
@@ -58,7 +55,7 @@ I think every one wandring to jump into the world of opensorce should undestand 
 
 * the phylosophy of unix 
 * the roots of linux 
-* the free software phylosophy 
+* the free software philosophy 
 * licencing 
 
 and this what what i tried to cover in this artical.
