@@ -8,7 +8,7 @@ tags : [
     "Linux",
 ]
 images: 
- - /30394.svg
+ - /30394.png
 ---
 
 ![Example image](/30394.svg)
