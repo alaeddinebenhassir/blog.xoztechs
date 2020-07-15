@@ -1,5 +1,5 @@
 ---
-title: "UNIX / linux history & licensing "
+title: "UNIX / linux history & licensing [Draft]"
 date: 2020-07-10T23:13:53+01:00
 draft: true
 author: "alaeddine benhassir"
@@ -36,9 +36,8 @@ The power of unix lies an the folwing philosophy :
 
 >So the idea is to solve a problem by interconnecting simpler tools, rather than creating large 
 > monolithic application programs — <cite>[^1]</cite> and it's the same approch used ini modern Linux systems.
-> 
-[^1]: The above quote is excerpted from  an archival site [site](https://s3-us-west-2.amazonaws.com/belllabs-microsite-unixhistory/index.html).
 
+[^1]: The above quote is excerpted from  an archival site [site](https://s3-us-west-2.amazonaws.com/belllabs-microsite-unixhistory/index.html).
 
 
 ### Devlopement of Unix :
