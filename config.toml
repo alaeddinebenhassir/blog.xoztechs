@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://blog.xoztechs.com"
 title = "Xoz Techs | Blog"
 theme = "erblog"
 paginate = 3
