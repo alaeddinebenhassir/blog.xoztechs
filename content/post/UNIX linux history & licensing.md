@@ -8,10 +8,12 @@ tags : [
     "Linux",
 ]
 ---
+<img src="/static/30394.svg" alt="sdsdf "/>
 
-## Linux and Unix history : 
+![Example image](/30394.svg)
+## History of UNIX and Linux : 
 
-[img]()
+
 
 ### 1964-1974 Unix is borne : 
 
@@ -29,9 +31,9 @@ By February 1973, there were already 16 UNIX installations. when Two big innovat
 
 The power of unix lies an the folwing philosophy : 
 
-1. ***Write programs that do one thing and do it well.***
-2. ***Write programs to work together (the pipe aproach is an exemple of it)***
-3. ***Write programs that handle text streams as a universal interface.***
+1. **Write programs that do one thing and do it well.**
+2. **Write programs to work together (the pipe aproach is an exemple of it)**
+3. **Write programs that handle text streams as a universal interface.**
 
 >So the idea is to solve a problem by interconnecting simpler tools, rather than creating large 
 > monolithic application programs — <cite>[^1]</cite> and it's the same approch used ini modern Linux systems.
