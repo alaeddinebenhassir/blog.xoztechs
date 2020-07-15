@@ -59,4 +59,4 @@ I think every one wandring to jump into the world of opensorce should undestand 
 * The free software philosophy ,
 * Licencing.
 
-This what what i tried to cover in this artical, if you like it spread knowldge.
+This what i tried to cover in this artical, if you like it spread knowldge.
