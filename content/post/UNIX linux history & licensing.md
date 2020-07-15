@@ -8,7 +8,7 @@ tags : [
     "Linux",
 ]
 images: 
- - /30394.svg
+ - /undraw_online_media_62jb.png
 ---
 
 ![Example image](/30394.svg)
