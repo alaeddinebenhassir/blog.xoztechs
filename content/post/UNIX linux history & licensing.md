@@ -7,6 +7,8 @@ description : "The philosophy of moderns linux systems has its roots back to the
 tags : [
     "Linux",
 ]
+images: 
+ - /30394.svg
 ---
 
 ![Example image](/30394.svg)
